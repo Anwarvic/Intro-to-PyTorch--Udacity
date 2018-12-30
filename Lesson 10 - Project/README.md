@@ -23,3 +23,7 @@ For the most part you'll be writing all the code yourself. Feel free to build an
 ## Test Score
 
 As part of the challenge, you'll be assessed on how well your model performs on a test set of flower images. You'll want to save your trained model as a checkpoint. We've prepared another notebook for you that will lead you through loading in your model and running the assessment code. We'll calculate a score using your model on the test data, then record it for use in awarding scholarships. Head to the next page for the model assessment.
+
+## Solution
+
+All you need to pass this project is to pass the weights of your trained model to the test algorithm and your are done. You can download mine from [here]().
