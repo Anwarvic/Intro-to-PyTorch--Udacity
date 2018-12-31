@@ -26,4 +26,5 @@ As part of the challenge, you'll be assessed on how well your model performs on 
 
 ## Solution
 
-All you need to pass this project is to pass the weights of your trained model to the test algorithm and your are done. You can download mine from [here]().
+All you need to pass this project is to pass the weights of your trained model to the test algorithm and your are done. You can download mine from [here](http://www.mediafire.com/file/4z64e452vz5wa36/weights.pth/file).
+
